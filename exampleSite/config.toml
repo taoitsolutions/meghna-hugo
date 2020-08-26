@@ -46,7 +46,7 @@ author = "tao"
 description = "Responsive Multipurpose Parallax HTML5 Template"
 google_analytics_id = ""
 logo = "images/logo.png"
-post_share = true
+post_share = false
 social = []
 [params.map]
 enable = false
