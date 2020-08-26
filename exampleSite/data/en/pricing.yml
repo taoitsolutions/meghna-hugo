@@ -21,15 +21,20 @@ pricing:
     button:
       label: Signup
       link: "#"
-  - name: Silver
-    price: "$149"
+  - name: SMB-10
+    price: "$799"
     unit: month
     services:
-    - 1GB Disk Space
+    - 1 Site
+    - 10 Computer Nodes
     - 10 Email Account
-    - Script Installer
-    - 1 GB Storage
-    - 10 GB Bandwidth
+    - ServerOS Support
+    - ClientOS Support
+    - Application Support
+    - Remote Support
+    - Onsite Support
+    - Email Support
+    - Ticket Support
     - 24/7 Tech Support
     button:
       label: Signup
