@@ -11,10 +11,8 @@ contact:
     info: 9 Shade Tree Cres, St. Catharines, ON, L2M 7G3
   - icon: ti-mobile
     info: 'Phone: +880-31-000-000'
-  - icon: ti-printer
-    info: 'Fax: +880-31-000-000'
   - icon: ti-email
-    info: 'Email: hello@meghna.com'
+    info: 'Email: info@taoit.solutions'
   contact_form:
     enable: true
     form_action: "#"
