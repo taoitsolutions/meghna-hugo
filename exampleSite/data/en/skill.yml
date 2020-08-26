@@ -8,11 +8,11 @@ skill:
     sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
   image: images/about/company-growth.webp
   skill_item:
-  - name: IT Infrastructure and Cloud Infrastructure
+  - name: 'IT Infrastructure and Cloud Infrastructure '
     percent: 90%
   - name: IT Automation
     percent: 70%
-  - name: Design
+  - name: Cyber Security
     percent: 80%
   - name: IOS Development
     percent: 95%
