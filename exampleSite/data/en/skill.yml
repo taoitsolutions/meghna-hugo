@@ -12,9 +12,9 @@ skill:
     percent: 90%
   - name: IT Automation
     percent: 70%
-  - name: Cyber Security
-    percent: 70%
   - name: Server & Network Monitoring
     percent: 75%
   - name: Datacenter Planning & Design
     percent: 75%
+  - name: Cyber Security
+    percent: 70%
