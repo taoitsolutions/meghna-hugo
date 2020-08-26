@@ -15,6 +15,6 @@ skill:
   - name: Cyber Security
     percent: 50%
   - name: Server & Network Monitoring
-    percent: 95%
+    percent: 75%
   - name: Datacenter Planning & Design
     percent: 75%
