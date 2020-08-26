@@ -10,10 +10,10 @@ skill:
   skill_item:
   - name: 'Cloud Computing Infrastructure '
     percent: 90%
-  - name: IT Automation
-    percent: 85%
   - name: Open Source Operating Systems & Applications
     percent: 90%
+  - name: IT Automation
+    percent: 85%
   - name: Networking
     percent: 75%
   - name: Cyber Security
