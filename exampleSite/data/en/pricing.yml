@@ -41,7 +41,7 @@ pricing:
       link: "#"
   - name: Cloud Starter Plan
     price: "$399"
-    unit: 5 hours
+    unit: 5hours
     services:
     - Cloud Platform Setup
     - Linux & Windows Server Support
