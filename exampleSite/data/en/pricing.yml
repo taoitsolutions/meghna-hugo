@@ -41,7 +41,7 @@ pricing:
       link: "#"
   - name: Cloud Support - Starter Plan
     price: "$399"
-    unit: 5/hours
+    unit: 5 hours
     services:
     - Cloud Platform Setup
     - Linux & Windows Server Support
