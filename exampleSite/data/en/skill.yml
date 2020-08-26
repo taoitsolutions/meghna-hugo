@@ -16,5 +16,5 @@ skill:
     percent: 80%
   - name: Server & Network Monitoring
     percent: 95%
-  - name: Web Development
+  - name: Datacenter Planning & Design
     percent: 75%
