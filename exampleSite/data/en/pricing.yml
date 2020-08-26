@@ -39,7 +39,7 @@ pricing:
     button:
       label: Signup
       link: "#"
-  - name: Cloud Support - Starter Plan
+  - name: Cloud Starter Plan
     price: "$399"
     unit: 5 hours
     services:
