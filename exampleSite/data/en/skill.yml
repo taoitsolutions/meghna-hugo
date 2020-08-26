@@ -10,7 +10,7 @@ skill:
   skill_item:
   - name: IT Infrastructure and Cloud Infrastructure
     percent: 90%
-  - name: Analysis
+  - name: IT Automation
     percent: 70%
   - name: Design
     percent: 80%
